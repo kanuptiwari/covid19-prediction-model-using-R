@@ -1,7 +1,6 @@
 # covid19-prediction-model-using-R
 #----------Predicting confirmed cases in USA for next 120 days using Arima Model-------------#
 
-setwd("/Users/elijaheniola/documents/dataset")
 
 #Importing libraries
 library(data.table)
